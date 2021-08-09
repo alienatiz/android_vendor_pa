@@ -13,9 +13,9 @@
   },
   {
     "remote":       "github",
-    "repository":   "alienatiz/android_kernel_xiaomi_sdm660",
+    "repository":   "LineageOS/android_kernel_xiaomi_sdm660",
     "target_path":  "kernel/xiaomi/sdm660",
-    "revision":     "ruby"
+    "revision":     "lineage-18.1"
   },
   {
     "remote":       "github",
